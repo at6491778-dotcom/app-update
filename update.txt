@@ -1,4 +1,4 @@
-on
+off
 2
 Please update the app to continue
 https://play.google.com/store/apps/details?id=com.yourapp
